@@ -1,2 +1,2 @@
 # CV
-My resume
+Latex template: https://github.com/janvorisek/minimal-latex-cv
